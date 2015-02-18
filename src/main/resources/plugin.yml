@@ -1,0 +1,25 @@
+name: MajotakuTabList
+version: 1.0.0
+main: net.jp.minecraft.plugin.TokyoTabList
+permissions:
+    tokyo.admin:
+        description: TTL_Admin
+        default: op
+    tokyo.builder:
+        description: TTL_Builer
+        default: op
+    tokyo.road:
+        description: TTL_Road
+        default: op
+    tokyo.texture:
+        description: TTL_Texture
+        default: op
+    tokyo.plugin:
+        description: TTL_Plugin
+        default: op
+    tokyo.other:
+        description: TTL_Other
+        default: op
+    tokyo.visitor:
+        description: TTL_Visitor
+        default: op
